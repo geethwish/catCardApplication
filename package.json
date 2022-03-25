@@ -1,0 +1,29 @@
+{
+    "name": "catcardapplication",
+    "version": "1.0.0",
+    "description": "cat card test application",
+    "main": "App.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node App.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/geethwish/catCardApplication.git"
+    },
+    "author": "Geeth Wishkamal",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/geethwish/catCardApplication/issues"
+    },
+    "homepage": "https://github.com/geethwish/catCardApplication#readme",
+    "dependencies": {
+        "argon2": "^0.28.5",
+        "combine-image": "^1.0.3",
+        "jimp": "^0.16.1",
+        "minimist": "^1.2.6",
+        "node-gyp": "^9.0.0",
+        "node-pre-gyp": "^0.17.0",
+        "request": "^2.88.2"
+    }
+}
